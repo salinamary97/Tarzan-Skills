@@ -1,0 +1,6 @@
+print(25+78)
+print (25-78)
+print(75/40)
+print(75*40)
+print(5**5)
+print(75//40)

@@ -11,5 +11,3 @@ print(f"My country is {Country}")
 A=12
 B='Salina'
 print(str(A)+B)
-
-
